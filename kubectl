@@ -1,4 +1,4 @@
-minikube start --cpus 4 --memory 8 --disk-size 50g
+minikube start --cpus 4 --memory 8192 --disk-size 50g
 
 # this command should be apply in host machine 
 
